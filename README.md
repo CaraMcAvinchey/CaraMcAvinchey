@@ -1,4 +1,6 @@
-### Hi there 👋
+![White Minimalist Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/97494262/217915711-77d6c528-f429-485c-94aa-0ef682f1fe6a.png)
+
+### Hi there 👋 I'm a Junior Fullstack Developer 
 
 <!--
 **CaraMcAvinchey/CaraMcAvinchey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

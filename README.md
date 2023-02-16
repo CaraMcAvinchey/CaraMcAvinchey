@@ -1,14 +1,17 @@
-![White Minimalist Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/97494262/217915711-77d6c528-f429-485c-94aa-0ef682f1fe6a.png)
+![White Minimalist Corporate Personal Profile LinkedIn Banner 11 27 38](https://user-images.githubusercontent.com/97494262/219401935-55aa5436-ed0b-4fea-ae9a-93c41b6f5eed.png)
 
 ### Hi there 👋 I'm a Junior Fullstack Developer 
+
+- 🔭 I’m currently building 7 games using JavaScript each with a different front-end framework (Bootstrap, Materialize, Tailwind).
+- 🌱 I’m currently learning SQL with @codecademy 
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I lived in China for 4 years as an English teacher
 
 <!--
 **CaraMcAvinchey/CaraMcAvinchey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

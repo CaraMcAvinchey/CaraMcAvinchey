@@ -2,8 +2,8 @@
 
 ### Hi there 👋 I'm a Junior Fullstack Developer 
 
-- 🔭 I’m currently building 7 games using JavaScript each with a different front-end framework (Bootstrap, Materialize, Tailwind).
-- 🌱 I’m currently learning SQL with @codecademy 
+- 🔭 I’m building 7 games using JavaScript each with a different front-end framework (Bootstrap, Materialize, Tailwind).
+- 🌱 I’m learning SQL with @codecademy 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I lived in China for 4 years as an English teacher
 

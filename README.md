@@ -1,10 +1,11 @@
-![White Minimalist Corporate Personal Profile LinkedIn Banner 11 27 38](https://user-images.githubusercontent.com/97494262/219401935-55aa5436-ed0b-4fea-ae9a-93c41b6f5eed.png)
 
-### Hi there 👋 I'm a Junior Fullstack Developer 
+![White Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/CaraMcAvinchey/CaraMcAvinchey/assets/97494262/4ed7d923-d996-42d0-9b47-0c1e9c4bc011)
 
-- 🔭 I’m building 7 games using JavaScript each with a different front-end framework (Bootstrap, Materialize, Tailwind).
-- 🌱 I’m completing additional courses in UX/UI design.
-- ⚡ Fun fact: I lived in China for 4 years as an English teacher
+### Hi there 👋 I'm an ISTQB certified tester and Full Stack Software Developer 
+
+- 🔭 I've recently completed training in Test Automation Engineering.
+- 🌱 I’m completing additional courses in Java and UX/UI design.
+- ⚡ Fun fact: I lived in China for 4 years as an English teacher.
 
 <!--
 **CaraMcAvinchey/CaraMcAvinchey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -27,7 +27,7 @@ If you’d like to know more about my experience, feel free to reach out I’d l
 👩‍💻 **I’m currently learning ...**
 
 <p dir="auto"> 
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 🌳 **I’m continuing to learn ...**
@@ -39,7 +39,7 @@ If you’d like to know more about my experience, feel free to reach out I’d l
 
 **<>** **Technologies**
 <p dir="auto">
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white&style=for-the-badge" /> 
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="HTML" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
@@ -58,11 +58,11 @@ If you’d like to know more about my experience, feel free to reach out I’d l
 
 ⚡ **Manual/Automated Testing**
  <p dir="auto">
-  <img alt="Junit" src="https://img.shields.io/badge/-junit-25A162?logo=junit&logoColor=white" />
+  <img alt="Junit" src="https://img.shields.io/badge/-junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
   <img alt="Selenium" src="https://img.shields.io/badge/-selenium-43B02A?logo=selenium&logoColor=white" />
-  <img alt="Cucumber" src="https://img.shields.io/badge/-cucumber-#23D96C?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img alt="Cucumber" src="https://img.shields.io/badge/-cucumber-23D96C?logo=cucumber&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
-  <img alt="Postman" src="https://img.shields.io/badge/-postman-FF6C37?logo=postman&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
  </p>
 
 🗄️ **Databases**

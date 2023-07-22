@@ -30,13 +30,6 @@ If you’d like to know more about my experience, feel free to reach out I’d l
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
-🌳 **I’m continuing to learn ...**
-
-<p dir="auto">
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white&style=for-the-badge" />
-</p>
-
 **<>** **Technologies**
 <p dir="auto">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -101,6 +94,8 @@ If you’d like to know more about my experience, feel free to reach out I’d l
     <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
  </p> 
 
+ ![](https://komarev.com/ghpvc/?username=CaraMcAvinchey&style=for-the-badge)
+
 <!--
 **CaraMcAvinchey/CaraMcAvinchey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -116,4 +111,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+🌳 **I’m continuing to learn ...**
+
+<p dir="auto">
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white&style=for-the-badge" />
+</p>
+
 -->

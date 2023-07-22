@@ -59,8 +59,10 @@ If you’d like to know more about my experience, feel free to reach out I’d l
 ⚡ **Manual/Automated Testing**
  <p dir="auto">
   <img alt="Junit" src="https://img.shields.io/badge/-junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-  <img alt="Selenium" src="https://img.shields.io/badge/-selenium-43B02A?logo=selenium&logoColor=white" />
-  <img alt="Cucumber" src="https://img.shields.io/badge/-cucumber-23D96C?logo=cucumber&logoColor=white" />
+  <img alt="Selenium" src="https://img.shields.io/badge/-selenium-43B02A?logo=selenium&logoColor=white&style=flat" />
+  <img alt="Cucumber" src="https://img.shields.io/badge/-cucumber-23D96C?logo=cucumber&logoColor=white&style=flat" />
+  <img alt="Mockito" src="https://img.shields.io/badge/-mockito-79a73e?&logoColor=black&style=flat" />
+  <img alt="Hamcrest" src="https://img.shields.io/badge/-hamcrest-black?&logoColor=white&style=flat" />
   <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
   <img alt="Postman" src="https://img.shields.io/badge/-postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
  </p>

@@ -1,9 +1,8 @@
 
 ![White Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/CaraMcAvinchey/CaraMcAvinchey/assets/97494262/f7f35806-c90a-40a5-9468-e2fa6506ea95)
 
-# Cara McAvinchey
-## Full Stack Software Developer | Trainee Test Automation Engineer | ISTQB certified
-### About me 👋
+# Full Stack Software Developer | Trainee Test Automation Engineer | ISTQB certified
+## About me 👋
 
 I am a blend of brand strategy in business, education and tech. 
 
